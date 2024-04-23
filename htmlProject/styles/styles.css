@@ -1,0 +1,54 @@
+.emphasizedText{
+    font-family:Verdana, Geneva, Tahoma, sans-serif;
+    color:black;
+    font-size: 40px;
+}
+
+.title{
+    font-family:fantasy;
+    color:coral;
+    font-size: 60px;
+}
+
+body{
+    background-color:rgb(206, 227, 230);
+    font-family:Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    text-align: center;
+}
+
+ul li {
+    text-align: center;
+    list-style-position: inside;
+}
+
+ol li{
+    text-align: center;
+    list-style-position: inside;
+}
+
+.comment{
+    font-family:fantasy;
+    font-size:25px
+}
+
+.header{
+    background-color:black;
+    height: 100px;
+    line-height: 100px;
+}
+
+.mainbody{
+    background-color:rgb(206, 227, 230);
+}
+
+.footer{
+    position: fixed;
+    background-color:black;
+    color:coral;
+    bottom: 0px;
+    right: 3px;
+    left: 3px;
+    height: 25px;
+    font-size: 10px;
+    line-height: 25px;
+}
